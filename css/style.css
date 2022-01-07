@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 3vh;
 }
 
 body {
@@ -30,7 +30,7 @@ a {
 
 .card {
     background-color: white;
-    width: 500px;
+    width: 50%;
     margin: 0 auto;
     padding: 10px;
     text-align: center;
@@ -71,7 +71,7 @@ a {
 .info i{
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 23px;
+    font-size: 4vh;
     transition: 0.5s;
     color: rgb(100, 100, 214);
 }
@@ -114,7 +114,7 @@ td {
 
 .education_and_skills h1{
     font-weight: 700;
-    font-size: 22px;
+    font-size: 3.5vh;
     text-align: center;
 }
 
@@ -154,7 +154,7 @@ button:hover {
 textarea {
     margin: 15px auto;
     display: block;
-    width: 320px;
+    width: 30%;
     height: 70px;
     resize: none;
     border-radius: 10px;
