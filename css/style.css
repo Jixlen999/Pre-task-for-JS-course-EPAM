@@ -80,6 +80,7 @@ a {
 }
 
 table {
+    width: 35%;
     overflow: hidden;
     border-radius: 20px;
     text-align: center;
