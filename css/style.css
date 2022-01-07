@@ -80,10 +80,11 @@ a {
 }
 
 table {
-    width: 35%;
+    width: 45%;
     overflow: hidden;
     border-radius: 20px;
     text-align: center;
+    margin-top: 20px;
 }
 
 th {
@@ -120,7 +121,9 @@ td {
 .education_and_skills_tables {
     margin-top: 20px;
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
+    align-items: center;
 }
 
 .additional {
