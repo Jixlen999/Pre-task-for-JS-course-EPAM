@@ -187,9 +187,12 @@ input {
 }
 
 .fa-arrow-circle-up {
-    font-size: 50px;
+    font-size: 7vh;
     color: #68dbc8;
-    
+}
+
+.fa-star {
+    color: rgb(253, 199, 49);
 }
 
 
