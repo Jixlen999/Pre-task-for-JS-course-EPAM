@@ -8,3 +8,5 @@ The field number is made to check the phone number you print. It has to match pa
 If it doesn't then the page shows an according alert message after pressing the button "Проверить". 
 If the number is typed correctly then you'll see an according alert message and the comment field will be filled 
 with my e-mail adress (if it was empty, but if it wasn't then you will simply see your message).
+
+##Link: https://jixlen999.github.io/Pre-task-for-JS-course-EPAM/
